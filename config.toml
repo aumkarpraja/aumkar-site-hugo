@@ -26,7 +26,7 @@ disableRSS = true
     
     [[params.social]]
     name = "email"
-    url  = "mailto:me@aumkar.ca"
+    url  = "mailto:hi@aumkar.ca"
 
     # Directory name of your blog content (default is `content/posts`)
     contentTypeName = "posts"
@@ -36,9 +36,9 @@ disableRSS = true
 [languages]
   [languages.en]
     title = "Aumkar Prajapati"
-    subtitle = "DevOps Specialist @ Indellient"
+    subtitle = "DevOps Engineer @ Statflo"
     keywords = ""
-    homeSubtitle = "DevOps Specialist @ Indellient"
+    homeSubtitle = "DevOps Engineer @ Statflo"
     copyright = "Aumkar Prajapati"
     readOtherPosts = "Read other posts"
 
@@ -59,7 +59,7 @@ disableRSS = true
         [[languages.en.menu.main]]
             identifier = "resume"
             name = "resume"
-            url = "res/aumkar_resume.pdf"
+            url = "https://www.linkedin.com/in/aumkar-prajapati-ba037492"
 
 # And you can even create generic menu
 [menu]
