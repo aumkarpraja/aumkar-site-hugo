@@ -4,7 +4,7 @@ date = ""
 aliases = ["about-us","about-hugo","contact"]
 +++
 
-Hey there, my name is Aumkar. I'm a DevOps Specialist at a great company called Indellient, located in lovely Oakville, Canada. I graduated in 2018 from Ryerson University with a BSc in Computer Science.
+Hey there, my name is Aumkar. I'm a DevOps Engineer at a great company called Statflo, located in lovely Toronto, Ontario. I graduated in 2018 from Ryerson University with a BSc in Computer Science.
 
 I dabble in a lot of things when it comes to my field of work but I've found myself settled in the DevOps field. Now DevOps is a huge container term for a lot of different things but I've spent my time fusing full-stack development work with things typically done in DevOps like packaging up applications and sending it off to the cloud via my favorite flavor of infra-as-code software (usually Terraform).
 
@@ -14,4 +14,4 @@ While I'm still working my way through learning the ins and outs of the DevOps f
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/aumkar-prajapati-ba037492), [GitHub](https://github.com/aumkarpraja), and [Instagram](https://instagram.com/aumkar.p). 
 
-You can also send me an [e-mail](mailto:me@aumkar.ca) if you feel like being a little more old-school!
+You can also send me an [e-mail](mailto:hi@aumkar.ca) if you feel like being a little more old-school!
